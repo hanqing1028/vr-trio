@@ -1,0 +1,52 @@
+Initialize engine version: 5.4.0p4 (b15b5ae035b7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8084 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\cse03056\Desktop\VR\vr-project-master\drums_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\cse03056\Desktop\VR\vr-project-master\drums_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\cse03056\Desktop\VR\vr-project-master\drums_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\cse03056\Desktop\VR\vr-project-master\drums_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\cse03056\Desktop\VR\vr-project-master\drums_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\cse03056\Desktop\VR\vr-project-master\drums_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\cse03056\Desktop\VR\vr-project-master\drums_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\cse03056\Desktop\VR\vr-project-master\drums_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\cse03056\Desktop\VR\vr-project-master\drums_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\cse03056\Desktop\VR\vr-project-master\drums_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\cse03056\Desktop\VR\vr-project-master\drums_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\cse03056\Desktop\VR\vr-project-master\drums_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+Platform assembly: C:\Users\cse03056\Desktop\VR\vr-project-master\drums_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\cse03056\Desktop\VR\vr-project-master\drums_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+ovr_Initialize(&initParams) failed: Couldn't connect to the OVR Service.
+Compositor failed to initialize.ovr_Initialize(&initParams) failed: Couldn't connect to the OVR Service.
+Compositor failed to initialize.OpenVR initialized!
+ 
+(Filename:  Line: 347)
+
+[VRDevice] Successfully created device OpenVR.
+UnloadTime: 0.613067 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 24d8 -> priority: 1 
+  Thread -> id: 23e8 -> priority: 1 
+Loaded: test, QwertyGuitar
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.872797 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 536.
+Total: 0.451574 ms (FindLiveObjects: 0.038033 ms CreateObjectMapping: 0.025355 ms MarkObjects: 0.137042 ms  DeleteObjects: 0.247520 ms)
+
+OpenVR Shutdown
+ 
+(Filename:  Line: 701)
+
